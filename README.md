@@ -5,7 +5,7 @@
 - [Project Layout](#project-layout)
   - [Top Level folders](#top-level-folders)
   - [Important Files](#important-files)
-- [Using & Testing LendHub on Sepolia](#using--testing-lendhub-on-sepolia)
+- [Using & Testing DApp on Sepolia](#using--testing-DApp-on-sepolia)
 - [Cloning and Deploying the Dapp on Sepolia Testnet](#cloning-and-deploying-the-dapp-on-sepolia-testnet)
 
 
