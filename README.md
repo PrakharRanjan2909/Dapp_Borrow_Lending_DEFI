@@ -50,7 +50,6 @@ This DeFi Lending & Borrowing decentralized application (DApp) operates on **Eth
 
 2. Add Sepolia Testnet to MetaMask
 
-3. Using the App : 
 
 ## Cloning and Deploying the Dapp on Sepolia Testnet
 
