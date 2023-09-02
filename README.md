@@ -73,7 +73,7 @@ npm install
    **_Select Sepolia testnet and copy the url_**
 
 
-4. Now copy Metamask wallet private key : https://support.metamask.io/hc/en-us/articles/360015289632
+4. Now copy Metamask wallet private key
 
 5. Create a new .env file in the root directory
 
