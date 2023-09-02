@@ -9,10 +9,9 @@
 - [Cloning and Deploying the Dapp on Sepolia Testnet](#cloning-and-deploying-the-dapp-on-sepolia-testnet)
 
 
-<!-- ## Introduction
-LendHub is a comprehensive DeFi Lending & Borrowing decentralized application (DApp) operating on **Ethereum's Sepolia Testnet**. The platform facilitates lending and borrowing of various crypto assets, while offering opportunities to earn passive income as interest on deposited funds.
+## Introduction
+This DeFi Lending & Borrowing decentralized application (DApp) operates on **Ethereum's Sepolia Testnet**. 
 
-This fully on-chain DeFi app allows users to effortlessly deposit their coins (ETH) or tokens into the smart contract, and receive rewards based on the amount of tokens they supply. In addition, LendHub enables users to borrow tokens, making it a versatile and user-friendly platform for all crypto enthusiasts. -->
 
 ## Technology Stack
 
